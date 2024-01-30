@@ -1,0 +1,3 @@
+C:/Users/jaked/CLionProjects/cpp-ex01-q08/cmake-build-debug/CMakeFiles/cpp_ex01_q08.dir
+C:/Users/jaked/CLionProjects/cpp-ex01-q08/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jaked/CLionProjects/cpp-ex01-q08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
